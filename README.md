@@ -7,7 +7,7 @@
 
 A comprehensive customer support and management system for Akshat Udyam, a leading solar energy solutions provider. This platform offers a dual-interface system with separate portals for customers and administrators, enabling efficient management of support tickets, billing, installations, and customer communications. The system leverages an intent classification model powered by DistilBERT to enhance customer support automation.
 
-![Akshat Udyam Dashboard]([https://placeholder.com/dashboard-preview.png](https://drive.google.com/file/d/1RR06uEDrHgOolkNJj1UUnrW64r6-q5f6/view?usp=sharing))
+![Akshat Udyam Dashboard](https://mega.nz/file/1z81EQwS#jVHnjLv4Q0ZnTWMnGCaLEvvDR-4HWUeWMdLaT18vYfQ)
 
 ## 🌟 Features
 
@@ -139,7 +139,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/) communities.
 
 ## Live preview link
-[Click to check preview](https://huggingface.co/)
+[Click to check preview](https://v0.dev/chat/fork-of-customer-support-system-0yz1vaDaIoP)
 
 ### Notes:
 - Replace https://github.com/your-username/akshat-udyam-support.git with your actual repository URL.
